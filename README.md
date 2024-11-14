@@ -11,7 +11,7 @@ Many individuals face challenges in managing limited funds, leading to overspend
 ## Platform
 The app will be developed on the Android platform to maximize accessibility and affordability, as Android devices are widespread. Additionally, it will be developed on Android SDK due to it being a native development platform. It provides a comprehensive set of tools, libraries, and APIs. 
 ## Front/Back End Support
-### Front-End: The overall goal of the front end is to deliver an intuitive, easy to use, and responsive user experience that makes budgeting simple and accessible. It aims to enable users to easily navigate, enter expenses, and manage budgets across different devices, ensuring seamless interaction and real-time feedback. The design will focus on speed and ease of use to help users effectively monitor their finances and make informed spending decisions.
+### Front-End: The overall goal of the front end is to deliver an intuitive, easy to use, and responsive user experience that makes budgeting simple and accessible. It aims to enable users to easily navigate, enter expenses, and manage budgets. The design will focus on speed and ease of use to help users effectively monitor their finances and make informed spending decisions.
 - Ensure that the UI is responsive and adapts well to different screens sizes (phones, tablets). 
 -	Interactive components like buttons, input fields, and other UI components to enable users to navigate, enter expenses, set budgets, and access different features. 
 -	Implement intuitive navigation with menus, navigation bars, and action buttons so users can quickly access key features.
